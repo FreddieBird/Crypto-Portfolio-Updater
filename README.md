@@ -11,4 +11,4 @@ The workbook comes with graphs that automatically plot your portfolio return ove
 3) Run.
 
 ### Note
-*Code is specific to workbook as the precise cells and layout must be known in order to successfully write data into the workbook.*
+*Code is specific to workbook as the precise cells and layout must be known in order to successfully write data into the workbook, so do not alter the layout of the workbook.*
